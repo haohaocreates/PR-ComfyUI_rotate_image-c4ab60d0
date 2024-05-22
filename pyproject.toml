@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_rotate_image"
+description = "ComfyUI Custom Node to Rotate Images, Img2Img node."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/jamal-alkharrat/ComfyUI_rotate_image"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_rotate_image"
+Icon = ""
